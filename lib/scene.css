@@ -22,4 +22,12 @@
   height: 20px;
   width: 20px;
 }
+
+.stash-performer-link img {
+  width: 2rem;
+  padding-left: 0.5rem;
+}
+
+.scene-performers .stash-performer-link {
+  padding-right: 0.25rem;
 }

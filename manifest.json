@@ -37,7 +37,8 @@
         "images/green_check.svg",
         "images/red_x.svg",
         "images/ignore.svg",
-        "images/yellow_star.svg"
+        "images/yellow_star.svg",
+        "images/stash.png"
       ],
       "matches": [
         "https://stashdb.org/*"

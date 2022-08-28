@@ -19,6 +19,8 @@ async function queryLocalStash(request) {
   });
   const results = await response.json();
 
+  results.address = address;
+
   return results;
 }
 
