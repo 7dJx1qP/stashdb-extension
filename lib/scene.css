@@ -1,8 +1,25 @@
-a:hover {
+.stash_id_match a:hover {
   background-color: rgba(0, 0, 0, 0.541);
   color: #fff !important;
 }
 
-.float-end {
-    display: flex;
+.stash_id_match.search_match {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  align-self: center;
+}
+
+.stash_id_match.scene_match {
+  position: relative;
+  margin-left: 10px;
+  cursor: pointer;
+  align-self: center;
+  display: inline;
+}
+
+.stash_id_match img {
+  height: 20px;
+  width: 20px;
+}
 }
