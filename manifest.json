@@ -47,5 +47,8 @@
   ],
   "action": {
     "default_popup": "settings/settings.html"
+  },
+  "icons": {
+    "256": "icon.png"
   }
 }
