@@ -31,3 +31,9 @@
 .scene-performers .stash-performer-link {
   padding-right: 0.25rem;
 }
+
+.SearchPage .stash-performer-link img {
+  width: 2rem;
+  padding-left: 0rem;
+  margin-right: 10px;
+}
